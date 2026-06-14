@@ -1,2 +1,2 @@
 Sample text from GitHub
-Adding few more lines from VS Code from VS Code
+Adding few more lines from VS Code
